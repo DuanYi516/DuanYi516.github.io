@@ -42,7 +42,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  |  <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
+**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 
 Through systematic experiments, we find that current gene expression predictors have limited long-sequence modeling ability. Prism integrates multimodal epigenomic signals with DNA sequences to achieve state-of-the-art performance in gene expression prediction.
 </div>
@@ -55,8 +55,7 @@ Through systematic experiments, we find that current gene expression predictors 
 
 **Yi Duan**<sup>*</sup>, Zhao Yang<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**KDD 2026**  |  <span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>
-
+**KDD 2026**  \|  <span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>    
 We design an interface that enables LLMs to directly understand DNA sequences, introduce CRE-ReasonBench, and develop a biological reasoning-informed regression framework for interpretable regulatory DNA activity prediction.
 </div>
 </div>
@@ -119,8 +118,7 @@ AI4Science research on gene expression prediction and regulatory DNA activity mo
 **Research Intern**, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) / [OpenDataLab](https://opendatalab.com/)  
 Remote · Sep. 2025 - Jun. 2026
 
-Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation. <a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fab fa-hugging-face"></i> Dataset</a></span>
-
+Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation. <a href="https://huggingface.co/collections/opendatalab/sciverse"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-blue" alt="Hugging Face Dataset"></a>
 <!-- <span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a> -->
 
 Served as a core co-first author of BioMatrix, reproducing generation and property-prediction benchmarks for 1D molecule experiments.
