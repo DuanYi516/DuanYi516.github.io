@@ -83,7 +83,7 @@ BioMatrix unifies molecules, proteins, sequences, structures, and language in a 
 
 Yifei Wang<sup>*</sup>, Qizhi Pei<sup>*</sup>, ..., **Yi Duan**, ..., Lijun Wu, Weiying Ma, Hao Zhou
 
-**ACL 2026**, Main Conference  <!--|  <span class="pub-links"><a href="https://openreview.net/forum?id=4U6JllYIMr"><i class="fas fa-external-link-alt"></i> OpenReview</a></span> -->
+**ACL 2026**, Main Conference
 
 An end-to-end retrosynthesis planning framework that uses generative reasoning and reinforcement learning to replace conventional search-heavy multi-step synthesis planning.
 </div>
@@ -93,7 +93,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 # Competitions
 
-- **Top 2 team** (3rd place among 76 teams), [CURE-Bench @ NeurIPS 2025](https://curebench.ai/), [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
+- [CURE-Bench @ NeurIPS 2025](https://curebench.ai/): **2nd prize** (3rd place among 76 teams) in [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
 
 <span class='anchor' id='educations'></span>
 
