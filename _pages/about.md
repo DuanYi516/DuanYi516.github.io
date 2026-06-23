@@ -42,9 +42,10 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
+**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  
 
 Through systematic experiments, we find that current gene expression predictors have limited long-sequence modeling ability. Prism integrates multimodal epigenomic signals with DNA sequences to achieve state-of-the-art performance in gene expression prediction.
+<span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 </div>
 </div>
 
@@ -55,8 +56,9 @@ Through systematic experiments, we find that current gene expression predictors 
 
 **Yi Duan**<sup>*</sup>, Zhao Yang<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**KDD 2026**  \|  <span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>    
+**KDD 2026**    
 We design an interface that enables LLMs to directly understand DNA sequences, introduce CRE-ReasonBench, and develop a biological reasoning-informed regression framework for interpretable regulatory DNA activity prediction.
+<span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>  
 </div>
 </div>
 
@@ -67,9 +69,10 @@ We design an interface that enables LLMs to directly understand DNA sequences, i
 
 Qizhi Pei<sup>*</sup>, Zhimeng Zhou<sup>*</sup>, **Yi Duan**<sup>*</sup>, ..., Lijun Wu
 
-BioMatrix Technical Report, 2026  |  <span class="pub-links"><a href="https://github.com/QizhiPei/BioMatrix"><i class="fab fa-github"></i> Code</a></span>
+BioMatrix Technical Report, 2026 
 
 BioMatrix unifies molecules, proteins, sequences, structures, and language in a shared discrete token space. As a core co-first author, I completed 39 of 80 biological tasks, built the 1D molecule evaluation pipeline, and supported key results and representation analyses.
+<span class="pub-links"><a href="https://github.com/QizhiPei/BioMatrix"><i class="fab fa-github"></i> Code</a></span>
 </div>
 </div>
 
@@ -80,7 +83,7 @@ BioMatrix unifies molecules, proteins, sequences, structures, and language in a 
 
 Yifei Wang<sup>*</sup>, Qizhi Pei<sup>*</sup>, ..., **Yi Duan**, ..., Lijun Wu, Weiying Ma, Hao Zhou
 
-**ACL 2026**, Main Conference  |  <span class="pub-links"><a href="https://openreview.net/forum?id=4U6JllYIMr"><i class="fas fa-external-link-alt"></i> OpenReview</a></span>
+**ACL 2026**, Main Conference  <!--|  <span class="pub-links"><a href="https://openreview.net/forum?id=4U6JllYIMr"><i class="fas fa-external-link-alt"></i> OpenReview</a></span> -->
 
 An end-to-end retrosynthesis planning framework that uses generative reasoning and reinforcement learning to replace conventional search-heavy multi-step synthesis planning.
 </div>
