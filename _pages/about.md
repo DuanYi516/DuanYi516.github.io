@@ -42,9 +42,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>
-
-<span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
+**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  |  <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 
 Through systematic experiments, we find that current gene expression predictors have limited long-sequence modeling ability. Prism integrates multimodal epigenomic signals with DNA sequences to achieve state-of-the-art performance in gene expression prediction.
 </div>
@@ -57,9 +55,7 @@ Through systematic experiments, we find that current gene expression predictors 
 
 **Yi Duan**<sup>*</sup>, Zhao Yang<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**KDD 2026**
-
-<span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>
+**KDD 2026**  |  <span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>
 
 We design an interface that enables LLMs to directly understand DNA sequences, introduce CRE-ReasonBench, and develop a biological reasoning-informed regression framework for interpretable regulatory DNA activity prediction.
 </div>
@@ -72,9 +68,7 @@ We design an interface that enables LLMs to directly understand DNA sequences, i
 
 Qizhi Pei<sup>*</sup>, Zhimeng Zhou<sup>*</sup>, **Yi Duan**<sup>*</sup>, ..., Lijun Wu
 
-BioMatrix Technical Report, 2026
-
-<span class="pub-links"><a href="https://github.com/QizhiPei/BioMatrix"><i class="fab fa-github"></i> Code</a></span>
+BioMatrix Technical Report, 2026  |  <span class="pub-links"><a href="https://github.com/QizhiPei/BioMatrix"><i class="fab fa-github"></i> Code</a></span>
 
 BioMatrix unifies molecules, proteins, sequences, structures, and language in a shared discrete token space. As a core co-first author, I completed 39 of 80 biological tasks, built the 1D molecule evaluation pipeline, and supported key results and representation analyses.
 </div>
@@ -87,9 +81,7 @@ BioMatrix unifies molecules, proteins, sequences, structures, and language in a 
 
 Yifei Wang<sup>*</sup>, Qizhi Pei<sup>*</sup>, ..., **Yi Duan**, ..., Lijun Wu, Weiying Ma, Hao Zhou
 
-**ACL 2026**, Main Conference
-
-<span class="pub-links"><a href="https://openreview.net/forum?id=4U6JllYIMr"><i class="fas fa-external-link-alt"></i> OpenReview</a></span>
+**ACL 2026**, Main Conference  |  <span class="pub-links"><a href="https://openreview.net/forum?id=4U6JllYIMr"><i class="fas fa-external-link-alt"></i> OpenReview</a></span>
 
 An end-to-end retrosynthesis planning framework that uses generative reasoning and reinforcement learning to replace conventional search-heavy multi-step synthesis planning.
 </div>
@@ -99,7 +91,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 # Competitions
 
-- **Top 2 team**, [CURE-Bench @ NeurIPS 2025](https://curebench.ai/), Track 1: Internal Model Reasoning.
+- **Top 2 team** (3rd place among 76 teams), [CURE-Bench @ NeurIPS 2025](https://curebench.ai/), [Internal Reasoning Track](https://www.kaggle.com/competitions/cure-bench-internal-reasoning/leaderboard).
 
 <span class='anchor' id='educations'></span>
 
@@ -117,7 +109,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 **Research Assistant**, [Gaoling School of Artificial Intelligence, Renmin University of China](https://gsai.ruc.edu.cn/)  
 Beijing, China · Aug. 2024 - Feb. 2026
 
-AI4Science research on gene expression prediction and regulatory DNA activity modeling, leading to one ICLR 2026 Oral co-first-author paper and one KDD 2026 first-author paper.
+AI4Science research on gene expression prediction and regulatory DNA activity modeling. <!--leading to one ICLR 2026 Oral co-first-author paper and one KDD 2026 first-author paper. -->
   </div>
 </div>
 
@@ -127,11 +119,11 @@ AI4Science research on gene expression prediction and regulatory DNA activity mo
 **Research Intern**, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) / [OpenDataLab](https://opendatalab.com/)  
 Remote · Sep. 2025 - Jun. 2026
 
-Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation.
+Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation. <a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fab fa-hugging-face"></i> Dataset</a></span>
 
 <!-- <span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a> -->
-<a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fab fa-hugging-face></i> Dataset</a></span>
-Served as a core co-first author of BioMatrix, completing 39 of 80 biological tasks.
+
+Served as a core co-first author of BioMatrix, reproducing generation and property-prediction benchmarks for 1D molecule experiments.
   </div>
 </div>
 
@@ -141,6 +133,6 @@ Served as a core co-first author of BioMatrix, completing 39 of 80 biological ta
 **Visiting Student**, [Zhongguancun Academy](https://www.bza.edu.cn/)  
 Beijing, China · Mar. 2026 - May 2026
 
-Selected for the ["Shenlan" Visiting Program](https://www.bza.edu.cn/detail/ssksfnzebq3qvhqvukyiko6zlavqprmh) and continued collaborative research on interpretable AI models for biological sequence analysis.
+Selected for the ["Shenlan" Visiting Program](https://www.bza.edu.cn/detail/ssksfnzebq3qvhqvukyiko6zlavqprmh), involved in the research and design of **ViraWatch**, a viral early-warning AI agent.
   </div>
 </div>
