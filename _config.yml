@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Duan"
-description              :
+description              : "Yi Duan's Homepage"
 repository               : "DuanYi516/DuanYi516.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Duan"
   name_zh          : "段毅"
-  avatar           : "img/profile/yi-duan.jpg"
+  avatar           : "img/profile/everyday.png"
   bio              : "Renmin University of China"
   location         : "Beijing, China"
   employer         :

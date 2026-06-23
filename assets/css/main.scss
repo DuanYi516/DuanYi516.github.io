@@ -122,8 +122,7 @@
 
     img {
         width: 100%;
-        aspect-ratio: 16 / 10;
-        object-fit: cover;
+        height: auto;
         border: 0;
         box-shadow: 0 10px 14px rgba(0, 0, 0, .28);
     }
@@ -145,6 +144,11 @@
 .pub-note {
     color: #555;
     font-size: .9em;
+}
+
+.paper-highlight {
+    color: #dc143c;
+    font-weight: 700;
 }
 
 .pub-links {

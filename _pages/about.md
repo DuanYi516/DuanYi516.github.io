@@ -12,18 +12,19 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics and pursuing a second major in Artificial Intelligence.
+I am an undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics but pursuing in Artificial Intelligence.
 
-My research interests lie in **Scientific AI** and **agents for scientific tasks**, with a current focus on biological sequence modeling, regulatory genomics, scientific knowledge extraction, and biological foundation models.
+My research interests lie in **Scientific AI** and **LLM agents for scientific tasks**.
 
-I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory / OpenDataLab, and Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy.
+I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory, and Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy.
 
 <span class='anchor' id='news'></span>
 
 # News
 
 - *2026.06*: BioMatrix technical report is available on arXiv.
-- *2026.06*: Our reasoning-informed regulatory DNA activity prediction work was accepted to KDD 2026.
+- *2026.06*: Our work on enabling LLMs to understand DNA through structured biological knowledge was accepted to KDD 2026.
+- *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released. [News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
 - *2026.02*: Prism was accepted to ICLR 2026 as an Oral presentation.
 
 <span class='anchor' id='publications'></span>
@@ -41,7 +42,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**ICLR 2026**, Oral, 1.15% of submitted papers
+**ICLR 2026**, <span class="paper-highlight">Oral, 1.15% of submitted papers</span>
 
 <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 
@@ -94,6 +95,18 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 </div>
 </div>
 
+<span class='anchor' id='competitions'></span>
+
+# Competitions
+
+- **Top 2 team**, [CURE-Bench @ NeurIPS 2025](https://curebench.ai/), Track 1: Internal Model Reasoning.
+
+<span class='anchor' id='educations'></span>
+
+# Educations
+
+- *2023.09 - 2027.06 (expected)*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
+
 <span class='anchor' id='internships'></span>
 
 # Internships
@@ -114,7 +127,9 @@ AI4Science research on gene expression prediction and regulatory DNA activity mo
 **Research Intern**, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) / [OpenDataLab](https://opendatalab.com/)  
 Remote · Sep. 2025 - Jun. 2026
 
-Contributed to SciVerse and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation.
+Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation.
+
+<span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a><a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fas fa-database"></i> Dataset</a></span>
   </div>
 </div>
 
@@ -127,9 +142,3 @@ Beijing, China · Mar. 2026 - May 2026
 Selected for the ["Shenlan" Visiting Program](https://www.bza.edu.cn/detail/ssksfnzebq3qvhqvukyiko6zlavqprmh) and continued collaborative research on interpretable AI models for biological sequence analysis.
   </div>
 </div>
-
-<span class='anchor' id='competitions'></span>
-
-# Competitions
-
-- **Top 2 team**, [CURE-Bench @ NeurIPS 2025](https://curebench.ai/), Track 1: Internal Model Reasoning.
