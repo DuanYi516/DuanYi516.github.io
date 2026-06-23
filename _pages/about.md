@@ -23,9 +23,9 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 # News
 
 - *2026.06*: BioMatrix technical report is available on arXiv.
-- *2026.06*: Our work on enabling LLMs to understand DNA through structured biological knowledge was accepted to KDD 2026.
-- *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released. [News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
-- *2026.02*: Prism was accepted to ICLR 2026 as an Oral presentation.
+- *2026.06*: Our work on enabling LLMs to understand DNA was accepted to KDD 2026. Thanks for all collaborators!
+- *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! [News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
+- *2026.02*: Prism was accepted to ICLR 2026 as an Oral presentation. Thanks for all collaborators!
 
 <span class='anchor' id='publications'></span>
 
@@ -42,7 +42,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
-**ICLR 2026**, <span class="paper-highlight">Oral, 1.15% of submitted papers</span>
+**ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>
 
 <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 
@@ -129,7 +129,9 @@ Remote · Sep. 2025 - Jun. 2026
 
 Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation.
 
-<span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a><a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fas fa-database"></i> Dataset</a></span>
+<!-- <span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a> -->
+<a href="https://huggingface.co/collections/opendatalab/sciverse"><i class="fab fa-hugging-face></i> Dataset</a></span>
+Served as a core co-first author of BioMatrix, completing 39 of 80 biological tasks.
   </div>
 </div>
 
