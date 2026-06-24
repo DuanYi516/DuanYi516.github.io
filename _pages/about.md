@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-# About Me
+<!-- # About Me -->
 
 I am an undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics but pursuing in Artificial Intelligence.
 
@@ -22,9 +22,10 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 # News
 
-- *2026.06*: BioMatrix technical report is available on arXiv.
+- *2026.06*: BioMatrix technical report is available on arXiv.👉[News](https://www.xiaohongshu.com/discovery/item/6a3b9b3d000000001100552c?source=webshare&xhsshare=pc_web&xsec_source=pc_share&xsec_token=CBLDqNW2uO9ggsaPMWQU09Dky5GGujJoleOYf2DyTvgpw%3D)
+
 - *2026.06*: Our work on enabling LLMs to understand DNA was accepted to KDD 2026. Thanks for all collaborators!
-- *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! [News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
+- *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
 - *2026.02*: Prism was accepted to ICLR 2026 as an Oral presentation. Thanks for all collaborators!
 
 <span class='anchor' id='publications'></span>
@@ -120,11 +121,11 @@ AI4Science research on gene expression prediction and regulatory DNA activity mo
   <div class="experience-text" markdown="1">
 **Research Intern**, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) / [OpenDataLab](https://opendatalab.com/)  
 Remote · Sep. 2025 - Jun. 2026
+Served as a core co-first author of [BioMatrix](https://github.com/QizhiPei/BioMatrix), reproducing generation and property-prediction benchmarks for 1D molecule experiments.
 
 Contributed to [SciVerse](https://sciverse.space/) and Sci-Align for scientific foundation datasets, focusing on life-science literature knowledge extraction and biological foundation model evaluation. <a href="https://huggingface.co/collections/opendatalab/sciverse"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-blue" alt="Hugging Face Dataset"></a>
 <!-- <span class="pub-links"><a href="https://sciverse.space/"><i class="fas fa-link"></i> Project</a> -->
 
-Served as a core co-first author of BioMatrix, reproducing generation and property-prediction benchmarks for 1D molecule experiments.
   </div>
 </div>
 
