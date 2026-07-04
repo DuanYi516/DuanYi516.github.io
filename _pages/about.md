@@ -22,11 +22,11 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 # News
 
-- *2026.06*: BioMatrix technical report is available on arXiv.👉[News](https://www.xiaohongshu.com/discovery/item/6a3b9b3d000000001100552c?source=webshare&xhsshare=pc_web&xsec_source=pc_share&xsec_token=CBLDqNW2uO9ggsaPMWQU09Dky5GGujJoleOYf2DyTvgpw%3D)
+- *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://www.xiaohongshu.com/discovery/item/6a3b9b3d000000001100552c?source=webshare&xhsshare=pc_web&xsec_source=pc_share&xsec_token=CBLDqNW2uO9ggsaPMWQU09Dky5GGujJoleOYf2DyTvgpw%3D)
 
-- *2026.06*: Our work on enabling LLMs to understand DNA was accepted to KDD 2026. Thanks for all collaborators!
+- *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. Thanks for all collaborators! 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
-- *2026.02*: Prism was accepted to ICLR 2026 as an Oral presentation. Thanks for all collaborators!
+- *2026.02*: [Prism](https://arxiv.org/pdf/2602.21550) was accepted to ICLR 2026 as an Oral presentation. Thanks for all collaborators! 👉[News](https://mp.weixin.qq.com/s/0k4cbrZmcCT7E6Wyg82Vyg)
 
 <span class='anchor' id='publications'></span>
 
@@ -45,7 +45,7 @@ Zhao Yang<sup>*</sup>, **Yi Duan**<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, B
 
 **ICLR 2026**, <span class="paper-highlight">(Oral, 1.15% of submitted papers)</span>  
 
-Through systematic experiments, we find that current gene expression predictors have limited long-sequence modeling ability. Prism integrates multimodal epigenomic signals with DNA sequences to achieve state-of-the-art performance in gene expression prediction.
+Through systematic experiments, we find that current gene expression predictors have limited long-sequence modeling ability. **Prism** integrates multimodal epigenomic signals with DNA sequences to achieve state-of-the-art performance in gene expression prediction.
 <span class="pub-links"><a href="https://github.com/yangzhao1230/Prism"><i class="fab fa-github"></i> Code</a></span>
 </div>
 </div>
@@ -58,7 +58,7 @@ Through systematic experiments, we find that current gene expression predictors 
 **Yi Duan**<sup>*</sup>, Zhao Yang<sup>*</sup>, Jiwei Zhu, Ying Ba, Chuan Cao, Bing Su
 
 **KDD 2026**    
-We design an interface that enables LLMs to directly understand DNA sequences, introduce CRE-ReasonBench, and develop a biological reasoning-informed regression framework for interpretable regulatory DNA activity prediction.
+We design an interface **R3LM** that enables LLMs to directly understand DNA sequences, introduce CRE-ReasonBench, and develop a biological reasoning-informed regression framework for interpretable regulatory DNA activity prediction.
 <span class="pub-links"><a href="https://github.com/DuanYi516/R3LM"><i class="fab fa-github"></i> Code</a></span>  
 </div>
 </div>
@@ -72,7 +72,7 @@ Qizhi Pei<sup>*</sup>, Zhimeng Zhou<sup>*</sup>, **Yi Duan**<sup>*</sup>, ..., L
 
 BioMatrix Technical Report, 2026 
 
-BioMatrix unifies molecules, proteins, sequences, structures, and language in a shared discrete token space. As a core co-first author, I completed 39 of 80 biological tasks, built the 1D molecule evaluation pipeline, and supported key results and representation analyses.
+**BioMatrix** unifies molecules, proteins, sequences, structures, and language in a shared discrete token space. As a core co-first author, I completed 39 of 80 biological tasks, built the 1D molecule evaluation pipeline, and supported key results and representation analyses.
 <span class="pub-links"><a href="https://github.com/QizhiPei/BioMatrix"><i class="fab fa-github"></i> Code</a></span>
 </div>
 </div>
