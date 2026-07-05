@@ -24,7 +24,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 - *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://www.xiaohongshu.com/discovery/item/6a3b9b3d000000001100552c?source=webshare&xhsshare=pc_web&xsec_source=pc_share&xsec_token=CBLDqNW2uO9ggsaPMWQU09Dky5GGujJoleOYf2DyTvgpw%3D)
 
-- *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. Thanks for all collaborators! 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
+- *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. See you in Jeju Island! 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
 - *2026.02*: [Prism](https://arxiv.org/pdf/2602.21550) was accepted to ICLR 2026 as an Oral presentation. Thanks for all collaborators! 👉[News](https://mp.weixin.qq.com/s/0k4cbrZmcCT7E6Wyg82Vyg)
 
