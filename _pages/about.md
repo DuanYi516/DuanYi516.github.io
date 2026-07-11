@@ -22,7 +22,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 # News
 
-- *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://www.xiaohongshu.com/discovery/item/6a3b9b3d000000001100552c?source=webshare&xhsshare=pc_web&xsec_source=pc_share&xsec_token=CBLDqNW2uO9ggsaPMWQU09Dky5GGujJoleOYf2DyTvgpw%3D)
+- *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://mp.weixin.qq.com/s/qlu0S9aXR5gKhgFp37ifRw)
 
 - *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. See you in Jeju Island! 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
@@ -100,7 +100,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 # Educations
 
-- *2023.09 - 2027.06 (expected)*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
+- *2023.09 - present*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
 
 <span class='anchor' id='internships'></span>
 
