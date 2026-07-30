@@ -80,7 +80,7 @@ BioMatrix Technical Report, 2026
 <div class='paper-box'><div class='paper-box-image'><div class="paper-thumb"><div class="paper-badge">ACL 2026</div><img src='img/papers/r3.png' alt="R3 retrosynthesis paper thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**R<sup>3</sup>: End-to-End Reasoning-based Planning for Multi-step Retrosynthesis via Reinforcement Learning**](https://openreview.net/forum?id=4U6JllYIMr)
+[**R<sup>3</sup>: End-to-End Reasoning-based Planning for Multi-step Retrosynthesis via Reinforcement Learning**](https://aclanthology.org/2026.acl-long.1745/)
 
 Yifei Wang<sup>*</sup>, Qizhi Pei<sup>*</sup>, ..., **Yi Duan**, ..., Lijun Wu, Weiying Ma, Hao Zhou
 
