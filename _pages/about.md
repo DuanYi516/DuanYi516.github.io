@@ -46,6 +46,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 A roadmap toward genuine recursive self-improvement, organizing AI systems by how much responsibility they assume within the improvement loop—from executing predefined improvements to recursively improving the improvement process itself.
 <span class="pub-links"><a href="https://github.com/theseus-labs-rsi"><i class="fab fa-github"></i> Code</a></span>  
 </div>
+</div>
 
 
 
