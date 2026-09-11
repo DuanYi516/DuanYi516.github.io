@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About"
+excerpt: "Yi Duan's academic homepage. Undergraduate at Renmin University of China working on self-improving AI, LLM reasoning, and multimodal foundation models."
 author_profile: true
 redirect_from:
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 
 <!-- # About Me -->
 
-I am a senior undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics and pursuing in Artificial Intelligence.
+I am a senior undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics with a second major in Artificial Intelligence.
 
-My research interests lie in **Self-Improving AI** and **LLM reasoning, and multimodal foundation models**
+My research interests lie in **Self-Improving AI** and **LLM reasoning**, and **multimodal foundation models**
 
 I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory, and Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy. I also work with Prof. [Xuanhe Zhou](https://xuanhe.gitbook.io/) at Theseus Labs.
 
@@ -22,6 +22,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 # News
 
+- *2026.09*: Our technical report **The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement** is now available on arXiv. The project led by me.
 - *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://mp.weixin.qq.com/s/qlu0S9aXR5gKhgFp37ifRw)
 - *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
@@ -35,10 +36,10 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div class="paper-thumb"><div class="paper-badge">KDD 2026</div><img src='img/papers/rsi.png' alt="R3LM paper thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-thumb"><div class="paper-badge">Tech Report</div><img src='img/papers/rsi.png' alt="R3LM paper thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement**](http://arxiv.org/abs/2609.11873)
+[**The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement**](http://arxiv.org/pdf/2609.11873)
 
 **Yi Duan**<sup>*</sup>, Ying Liu<sup>*</sup>, Zirui Tang<sup>*</sup>, ..., Xuanhe Zhou, Fan Wu
 
@@ -129,7 +130,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 **Project Lead**, [School of Computer Science, Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) / [Theseus Labs](https://theseus-labs-rsi.github.io/)  
 Aug. 2026 - Sep. 2026
 
-Led a collaborative research effort on Recursive Self-Improvement with Prof. Xuanhe Zhou's team. Proposed the autonomy-centered framework, designed the overall technical narrative and project structure, decomposed and coordinated research/writing tasks, and integrated academic research and industry practices into a unified roadmap toward genuine RSI.
+Lead a collaborative research effort on Recursive Self-Improvement with Prof. Xuanhe Zhou's team. Proposed the autonomy-centered framework, designed the overall technical narrative and project structure, decomposed and coordinated research/writing tasks, and integrated academic research and industry practices into a unified roadmap toward genuine RSI.
 
   </div>
 </div>
