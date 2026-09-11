@@ -14,7 +14,7 @@ redirect_from:
 
 I am a senior undergraduate student at [Renmin University of China](https://www.ruc.edu.cn/), majoring in Economics with a second major in Artificial Intelligence.
 
-My research interests lie in **Self-Improving AI** and **LLM reasoning**, and **multimodal foundation models**
+My research interests lie in **AI Scientists** and **Self-Improving AI**.
 
 I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory, and Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy. I also work with Prof. [Xuanhe Zhou](https://xuanhe.gitbook.io/) at Theseus Labs.
 
