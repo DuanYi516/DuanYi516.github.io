@@ -22,7 +22,7 @@ I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bings
 
 # News
 
-- *2026.09*: Our technical report **The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement** is now available on arXiv. The project led by me.
+- *2026.09*: Our technical report **The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement** is now available on arXiv. Thanks for all collaborators!
 - *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://mp.weixin.qq.com/s/qlu0S9aXR5gKhgFp37ifRw)
 - *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
@@ -120,7 +120,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 - *2023.09 - present*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
 
-<span class='anchor' id='internships'></span>
+<span class='anchor' id='Resaerch Experience'></span>
 
 # Research Experience
 
