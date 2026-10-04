@@ -116,11 +116,12 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 <span class='anchor' id='educations'></span>
 
-# Educations
+# Education
 
-- *2023.09 - present*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
+- *2027.09 - 2030.06(expected)*, Incoming M.S. Student in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China
+- *2023.09 - 2027.06(expected)*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
 
-<span class='anchor' id='Resaerch Experience'></span>
+<span class='anchor' id='Research Experience'></span>
 
 # Research Experience
 
