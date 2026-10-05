@@ -16,13 +16,13 @@ I am a senior undergraduate student at [Renmin University of China](https://www.
 
 My research interests lie in **AI Scientists** and **Self-Improving AI**.
 
-I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory, and Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy. I also work with Prof. [Xuanhe Zhou](https://xuanhe.gitbook.io/) at Theseus Labs.
+I have been fortunate to work with Prof. [Bing Su](https://gsai.ruc.edu.cn/bingsu) at RUC, Dr. [Lijun Wu](https://apeterswu.github.io/) at Shanghai AI Laboratory, Prof. [Chuan Cao](http://bjzgca.edu.cn/teacher/7af51beaba764c4cbca0615ff5d5f52d) at Zhongguancun Academy and Prof. [Xuanhe Zhou](https://xuanhe.gitbook.io/) at Theseus Labs.
 
 <span class='anchor' id='news'></span>
 
 # News
 
-- *2026.09*: Our technical report **The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement** is now available on arXiv. Thanks for all collaborators!
+- *2026.09*: Our technical report [The Last AI Built by Humans](http://arxiv.org/pdf/2609.11873) is now available on arXiv. Thanks for all collaborators! 👉[News](https://mp.weixin.qq.com/s/6AqnNxiUt9-YC6a_ilLz8w)
 - *2026.06*: [BioMatrix](https://arxiv.org/pdf/2606.22138) technical report is available on arXiv. 👉[News](https://mp.weixin.qq.com/s/qlu0S9aXR5gKhgFp37ifRw)
 - *2026.06*: [R3LM](https://arxiv.org/pdf/2606.08147) was accepted to KDD 2026. 👉[News](https://mp.weixin.qq.com/s/WZfIbAD8Jr5SLG8CbUVVHg)
 - *2026.04*: Scientific data foundation [SciVerse](https://sciverse.space/) was released! 👉[News](https://mp.weixin.qq.com/s/C5otOrUXM3yrOnsqDaHMSw)
@@ -116,7 +116,7 @@ An end-to-end retrosynthesis planning framework that uses generative reasoning a
 
 <span class='anchor' id='educations'></span>
 
-# Education
+# Educations
 
 - *2027.09 - 2030.06(expected)*, Incoming M.S. Student in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China
 - *2023.09 - 2027.06(expected)*, B.A. in Economics; Minor in Artificial Intelligence, Renmin University of China.
